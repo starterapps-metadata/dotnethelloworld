@@ -1,0 +1,63 @@
+{
+	"name": "ASP.NET 5",
+	"services": [],
+	"type": "web",
+	"defaultMemory": 256,
+	"version": "experimental",
+	"description": "A simple ASP.NET 5 application that will get you up and running quickly.",
+	"smallIcon": "i_net_24.png",
+	"icon": "i_net_32.png",
+	"largeIcon": "i_net_50.png",
+	"featuredIcon": "i_net_64.png",
+	"system_tags": ["ibm_experimental"],
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01",
+		"bssRuntimeName": "aspnet5-experimental"		
+	},
+	"source": {
+		"url": "https://github.com/IBM-Bluemix/asp.net5-helloworld.git",
+		"appPath": ""
+	},
+	"docURL": "/#starters/dotnet/index.html#dotnet",
+	"extra": {
+		"i18n": {
+			"de": {
+				"name": "ASP.NET 5",
+				"description": "Eine einfache ASP.NET 5-Anwendung, mit deren Hilfe Sie ohne zeitliche Verzögerungen mit Ihrer Arbeit beginnen können."
+			},
+			"es": {
+				"name": "ASP.NET 5",
+				"description": "Una sencilla aplicación ASP.NET 5 que podrá configurar y ejecutar rápidamente."
+			},
+			"fr": {
+				"name": "ASP.NET 5",
+				"description": "Application ASP.NET 5 simple qui permet une mise en route rapide."
+			},
+			"it": {
+				"name": "ASP.NET 5",
+				"description": "Una semplice applicazione ASP.NET 5 che ti renderà subito operativo."
+			},
+			"ja": {
+				"name": "ASP.NET 5",
+				"description": "素早く実行することができるシンプルな ASP.NET 5 アプリケーション。"
+			},
+			"pt-BR": {
+				"name": "ASP.NET 5",
+				"description": "Um aplicativo ASP.NET 5 simples que será instalado e executado rapidamente."
+			},
+			"zh-Hans": {
+				"name": "ASP.NET 5",
+				"description": "简单的 ASP.NET 5 应用程序，让您快速入门和熟悉运用。"
+			},
+			"zh-Hant": {
+				"name": "ASP.NET 5",
+				"description": "簡單的 ASP.NET 5 應用程式，它將讓您快速開始運作。"
+			},
+			"ko": {
+				"name": "ASP.NET 5",
+				"description": "빠르게 시작하고 실행할 수 있는 간단한 ASP.NET 5 애플리케이션입니다. "
+			}
+		}
+	}
+}
