@@ -16,6 +16,7 @@
 		"bssRuntimeName": "aspnet5-experimental"		
 	},
 	"source": {
+		"scmType" : "git",
 		"url": "https://github.com/IBM-Bluemix/asp.net5-helloworld.git",
 		"appPath": ""
 	},
