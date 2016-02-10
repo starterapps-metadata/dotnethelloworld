@@ -4,7 +4,7 @@
 	"type": "web",
 	"defaultMemory": 256,
 	"version": "experimental",
-	"description": "A simple ASP.NET 5 application that will get you up and running quickly.",
+	"description": "Develop, deploy, and scale ASP.NET 5 web apps with ease.",
 	"smallIcon": "i_net_24.png",
 	"icon": "i_net_32.png",
 	"largeIcon": "i_net_50.png",
