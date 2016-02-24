@@ -1,10 +1,10 @@
 {
-	"name": "ASP.NET 5",
+	"name": "ASP.NET Core",
 	"services": [],
 	"type": "web",
 	"defaultMemory": 256,
 	"version": "experimental",
-	"description": "Develop, deploy, and scale ASP.NET 5 web apps with ease.",
+	"description": "Develop, deploy, and scale ASP.NET Core web apps with ease.",
 	"smallIcon": "i_net_24.png",
 	"icon": "i_net_32.png",
 	"largeIcon": "i_net_50.png",
@@ -24,40 +24,40 @@
 	"extra": {
 		"i18n": {
 			"de": {
-				"name": "ASP.NET 5",
-				"description": "ASP.NET 5-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
+				"name": "ASP.NET Core",
+				"description": "ASP.NET Core-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
 			},
 			"es": {
-				"name": "ASP.NET 5",
-				"description": "Desarrolle, despliegue y escale fácilmente apps web ASP.NET 5."
+				"name": "ASP.NET Core",
+				"description": "Desarrolle, despliegue y escale fácilmente apps web ASP.NET Core."
 			},
 			"fr": {
-				"name": "ASP.NET 5",
-				"description": "Développez, déployez et mettez à l'échelle des applications ASP.NET 5 facilement."
+				"name": "ASP.NET Core",
+				"description": "Développez, déployez et mettez à l'échelle des applications ASP.NET Core facilement."
 			},
 			"it": {
-				"name": "ASP.NET 5",
-				"description": "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web ASP.NET 5."
+				"name": "ASP.NET Core",
+				"description": "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web ASP.NET Core."
 			},
 			"ja": {
-				"name": "ASP.NET 5",
-				"description": "ASP.NET 5 Web アプリの開発、デプロイ、および拡張を容易に行います。"
+				"name": "ASP.NET Core",
+				"description": "ASP.NET Core Web アプリの開発、デプロイ、および拡張を容易に行います。"
 			},
 			"ko": {
-				"name": "ASP.NET 5",
-				"description": "ASP.NET 5 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
+				"name": "ASP.NET Core",
+				"description": "ASP.NET Core 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
 			},
 			"pt-BR": {
-				"name": "ASP.NET 5",
-				"description": "Desenvolva, implemente e escale apps da web ASP.NET 5 com facilidade."
+				"name": "ASP.NET Core",
+				"description": "Desenvolva, implemente e escale apps da web ASP.NET Core com facilidade."
 			},
 			"zh-Hans": {
-				"name": "ASP.NET 5",
-				"description": "轻松开发、部署和扩展 ASP.NET 5 Web 应用程序。"
+				"name": "ASP.NET Core",
+				"description": "轻松开发、部署和扩展 ASP.NET Core Web 应用程序。"
 			},
 			"zh-Hant": {
-				"name": "ASP.NET 5",
-				"description": "輕鬆地開發、部署及擴充 ASP.NET 5 Web 應用程式。"
+				"name": "ASP.NET Core",
+				"description": "輕鬆地開發、部署及擴充 ASP.NET Core Web 應用程式。"
 			}
 		}
 	}
