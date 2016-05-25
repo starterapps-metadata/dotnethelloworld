@@ -3,13 +3,13 @@
 	"services": [],
 	"type": "web",
 	"defaultMemory": 256,
-	"version": "experimental",
+	"version": "beta",
 	"description": "Develop, deploy, and scale ASP.NET Core web apps with ease.",
 	"smallIcon": "i_net_24.png",
 	"icon": "i_net_32.png",
 	"largeIcon": "i_net_50.png",
 	"featuredIcon": "i_net_64.png",
-	"system_tags": ["ibm_experimental"],
+	"system_tags": ["ibm_beta"],
 	"categories": ["runtime"],
 	"metadata": {
 		"termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01",
@@ -17,7 +17,7 @@
 	},
 	"source": {
 		"scmType" : "git",
-		"url": "https://github.com/IBM-Bluemix/asp.net5-helloworld.git",
+		"url": "https://github.com/IBM-Bluemix/aspnet-core-helloworld.git",
 		"appPath": ""
 	},
 	"docURL": "/#starters/dotnet/index.html#dotnet",
