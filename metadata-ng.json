@@ -13,7 +13,7 @@
 	"categories": ["runtime"],
 	"metadata": {
 		"termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01",
-		"bssRuntimeName": "aspnet5-experimental"		
+		"bssRuntimeName": "dotnet-core"		
 	},
 	"source": {
 		"scmType" : "git",
