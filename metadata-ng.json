@@ -9,7 +9,7 @@
 	"icon": "i_net_32.png",
 	"largeIcon": "i_net_50.png",
 	"featuredIcon": "i_net_64.png",
-	"system_tags": ["ibm_beta", "ibm_created"],
+	"system_tags": ["ibm_beta"],
 	"categories": ["runtime"],
 	"metadata": {
 		"termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01",
