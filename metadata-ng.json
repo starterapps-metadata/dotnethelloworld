@@ -12,7 +12,7 @@
 	"system_tags": ["ibm_created"],
 	"categories": ["runtime"],
 	"metadata": {
-		"termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6620-02",
+		"termsUrl": "http://www.ibm.com/software/sla/sladb.nsf/sla/bm-7449-01",
 		"bssRuntimeName": "dotnet-core"		
 	},
 	"source": {
