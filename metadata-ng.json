@@ -2,7 +2,7 @@
 	"name": "ASP.NET Core",
 	"services": [],
 	"type": "web",
-	"defaultMemory": 512,
+	"defaultMemory": 256,
 	"version": "1.x",
 	"description": "Develop, deploy, and scale ASP.NET Core web apps with ease.",
 	"smallIcon": "i_net_24.png",
